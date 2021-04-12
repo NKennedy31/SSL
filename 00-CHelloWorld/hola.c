@@ -7,4 +7,5 @@ Ignacio Kennedy
 
 int main(void){
 printf("Hello, World!\n");
+system("pause");
 }
