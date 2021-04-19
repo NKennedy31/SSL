@@ -1,1 +1,1 @@
-bash: Hello.c: command not found
+Hello, World!
